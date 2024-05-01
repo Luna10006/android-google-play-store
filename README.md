@@ -37,3 +37,5 @@
 **All Versions里面选择第一个最新版本就可以了**
 
 ![img](https://raw.githubusercontent.com/hideuvpn/android-google-play-store/master/google-play-store-01.png)
+
+如果 apk 链接不起作用，请尝试其他网站，例如 [APKMirror](https://www.apkmirror.com/) 或 [APKProMaster](https://apkpromaster.com/)。
